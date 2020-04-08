@@ -12,4 +12,4 @@ for x in range(img.size[0]):
             pixels[x, y] = (0, 0, 0, 0)
 
 
-img.save("font.png")
+img.save("basic8bit.png")
